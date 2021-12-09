@@ -555,6 +555,7 @@ a {
 
 .header_link:hover {
     transform: scale(1.1)
+    transition-duration: 0.5s;
 }
 
 .cart_button:hover {
